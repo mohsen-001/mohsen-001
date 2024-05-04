@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-001&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-001" /> </p>
 
  <a href="https://github-readme-stats.vercel.app">
